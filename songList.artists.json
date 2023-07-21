@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "64b55ecdd0323b25c92fdf18"
+  },
+  "name": "idgitaf",
+  "dateOfBirth": {
+    "$date": "2001-12-12T00:00:00.000Z"
+  },
+  "genre": "Pop"
+},
+{
+  "_id": {
+    "$oid": "64b55ecdd0323b25c92fdf19"
+  },
+  "name": "James Arthur",
+  "dateOfBirth": {
+    "$date": "1990-10-12T00:00:00.000Z"
+  },
+  "genre": "Pop"
+},
+{
+  "_id": {
+    "$oid": "64b55ecdd0323b25c92fdf1a"
+  },
+  "name": "Benson Boone",
+  "dateOfBirth": {
+    "$date": "1997-08-11T00:00:00.000Z"
+  },
+  "genre": "Pop"
+},
+{
+  "_id": {
+    "$oid": "64b55ecdd0323b25c92fdf1b"
+  },
+  "name": "Benson Boone",
+  "dateOfBirth": {
+    "$date": "1997-08-11T00:00:00.000Z"
+  },
+  "genre": "Pop"
+},
+{
+  "_id": {
+    "$oid": "64b55ecdd0323b25c92fdf1c"
+  },
+  "name": "Raim Laode",
+  "dateOfBirth": {
+    "$date": "1994-09-24T00:00:00.000Z"
+  },
+  "genre": "Pop"
+},
+{
+  "_id": {
+    "$oid": "64b55ecdd0323b25c92fdf1d"
+  },
+  "name": "Budi Doremi",
+  "dateOfBirth": {
+    "$date": "1992-03-24T00:00:00.000Z"
+  },
+  "genre": "Pop"
+},
+{
+  "_id": {
+    "$oid": "64b55ecdd0323b25c92fdf1e"
+  },
+  "name": "Tiara Andini",
+  "dateOfBirth": {
+    "$date": "1995-05-13T00:00:00.000Z"
+  },
+  "genre": "Pop"
+},
+{
+  "_id": {
+    "$oid": "64b55ecdd0323b25c92fdf1f"
+  },
+  "name": "Feby Putri",
+  "dateOfBirth": {
+    "$date": "1999-02-17T00:00:00.000Z"
+  },
+  "genre": "Pop"
+},
+{
+  "_id": {
+    "$oid": "64b55ecdd0323b25c92fdf20"
+  },
+  "name": "Feby Putri",
+  "dateOfBirth": {
+    "$date": "1999-02-17T00:00:00.000Z"
+  },
+  "genre": "Pop"
+},
+{
+  "_id": {
+    "$oid": "64b55ecdd0323b25c92fdf21"
+  },
+  "name": "Ismail",
+  "dateOfBirth": {
+    "$date": "1993-04-11T00:00:00.000Z"
+  },
+  "genre": "Rock"
+},
+{
+  "_id": {
+    "$oid": "64b55ecdd0323b25c92fdf22"
+  },
+  "name": "Iis Dahlia",
+  "dateOfBirth": {
+    "$date": "1983-07-14T00:00:00.000Z"
+  },
+  "genre": "Dangdut"
+}]
